@@ -1,0 +1,38 @@
+Bhavya Jain,ENTER,3,04:07:26
+Thanmayee Matha,EXIT,5,04:06:41
+Khushdev Pandit,ENTER,1,04:02:14
+Khushdev Pandit,EXIT,3,04:02:57
+Khushdev Pandit,ENTER,1,04:03:04
+Khushdev Pandit,EXIT,1,04:03:24
+Khushdev Pandit,ENTER,1,04:03:38
+Khushdev Pandit,EXIT,1,04:03:45
+Khushdev Pandit,ENTER,3,04:05:17
+Khushdev Pandit,EXIT,3,04:05:36
+Khushdev Pandit,ENTER,5,04:07:32
+Khushdev Pandit,EXIT,3,04:07:49
+Bharat Goyal,EXIT,3,04:06:32
+Snehal,ENTER,3,04:02:24
+Aryan Chaudhary,ENTER,1,04:03:45
+Smiti Singhal,ENTER,1,04:04:52
+Smiti Singhal,EXIT,5,04:08:03
+Shambhavi Sharma,ENTER,1,04:02:38
+Rishabh Oberoi,EXIT,1,04:02:48
+Kartik Gupta,ENTER,5,04:02:25
+Manas,EXIT,1,04:08:05
+Aditya Raj Singh,EXIT,3,04:04:49
+Swaib Ilias Mazumder,EXIT,3,04:06:00
+Shraman Jain,ENTER,1,04:04:44
+Shraman Jain,EXIT,5,04:06:29
+Surbhi Goyal,EXIT,1,04:06:46
+Surbhi Goyal,ENTER,3,04:07:55
+Shashank Dargar,ENTER,5,04:02:12
+Param Shah,ENTER,3,04:02:45
+Param Shah,EXIT,5,04:05:14
+Swatantra kumar nigam,EXIT,1,04:07:08
+Swatantra kumar nigam,ENTER,5,04:07:30
+Ayush Srivastava,ENTER,5,04:07:11
+Ayush Srivastava,EXIT,3,04:07:13
+Ayush Srivastava,ENTER,3,04:07:42
+Dhruv Mishra,EXIT,1,04:06:34
+Manav Saini,ENTER,3,04:02:22
+Manav Saini,EXIT,3,04:07:07

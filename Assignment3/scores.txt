@@ -1,0 +1,12 @@
+File1.txt
+score:9.193762441937624
+the,is,warming,global,of,
+['solving', 'solutions', 'rapidly', 'solving', 'atmosphere']
+File2.txt
+score:8.854700854700855
+the,water,is,of,in,
+['photosynthesis', 'forms', 'but', 'the', 'animals']
+File3.txt
+score:9.17916390179164
+the,is,warming,global,of,
+['the', 'warming', 'warming', 'not', 'is']

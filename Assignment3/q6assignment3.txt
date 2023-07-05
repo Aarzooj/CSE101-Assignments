@@ -1,0 +1,29 @@
+(A) part
+Advantages of using OO
+1.OO allows to break the entire code into parts i.e. computational units and work on each separately.
+2.Easy to debug the code.
+
+Advantages of using Dictionaries
+1.Takes comparitivel less time to execute.
+2.Dictionaries are easy to understand and implement as compared to OO while writing a program.
+
+Disadvantages of using OO
+1.while using OO for implementing the program,the program becomes too lengthy and thus also takes more time to execute.
+2.OO takes time to understand to how to execute it and get used to it.
+
+Disadvantages of using Dictionaries
+1.Difficult to implement complex problems and can't break into smaller parts.
+2.Difficult to debug.
+
+(B) part
+#grading comparison
+1.N=1000
+2.Time by OO:5.661499500274658 seconds
+3.Time by dictionary:5.270022869110107 seconds
+4.X is faster; fraction of time x took is:0.3914766311645508 seconds
+
+#search comparison
+1.N=6
+2.Time by OO:0.014661073684692383 seconds 
+3.Time by dictionary:0.02093052864074707 seconds 
+4.X is faster; fraction of time x took is:0.0062694549560546875 seconds
