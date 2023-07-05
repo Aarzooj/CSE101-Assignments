@@ -1,0 +1,29 @@
+Ram:
+John, 1
+Nelson, 0
+Queen, 1
+James, 0
+
+John:
+Ram, 0
+Nelson, 0
+Queen, 0
+James, 1
+
+Nelson:
+Ram, 1
+John, 1
+Queen, 1
+James, 0
+
+Queen:
+Ram, 1
+John, 1
+Nelson, 0
+James, 0
+
+James:
+Ram, 0
+John, 1
+Nelson, 0
+Queen, 0
